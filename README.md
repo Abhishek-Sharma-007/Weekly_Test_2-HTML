@@ -9,7 +9,7 @@
 
 ![image](https://github.com/Abhishek-Sharma-007/Weekly_Test_2-HTML/assets/84591804/37d727dd-5fec-4815-a692-2212901c3141)
 
-![image](https://github.com/Abhishek-Sharma-007/Weekly_Test_2-HTML/assets/84591804/945fb891-99f4-48bc-81c1-a75c66f9afac)
+![image](https://github.com/Abhishek-Sharma-007/Weekly_Test_2-HTML/assets/84591804/c7a78baa-e4ef-4813-b308-7725155bc9b7)
 
 ---
 # OUTPUT:
