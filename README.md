@@ -25,5 +25,5 @@
 ---
 # Submission Required:
 - GitHub Repository Link: [Click Here](https://github.com/Abhishek-Sharma-007/Weekly_Test_2-HTML)
-- README.md File Link: []()  
+- README.md File Link: [Click Me](https://github.com/Abhishek-Sharma-007/Weekly_Test_2-HTML/blob/master/README.md)  
 - Hosted Link: [Tap Me](https://abhishek-sharma-007.github.io/Weekly_Test_2-HTML/)
