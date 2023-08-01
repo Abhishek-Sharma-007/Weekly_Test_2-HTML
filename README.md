@@ -4,6 +4,17 @@
 - You need to complete the "Weekly Test 2" task.
 - Tags which are taught in the class are being used to complete this task
 - If you click on any of the image on left, your screen on right will  show that particular project
+- Tags used in class are:
+  1. Heading Tag: An HTML heading tag is used to define the headings of a page.
+  2. div Tag: It is commonly used to create sections or divisions in a web page and acts as a container for other HTML elements, such as text, images, forms, or other nested elements.
+  3. iframe: The <iframe> element stands for "inline frame" and is used to embed another HTML document or web page within the current document.It creates a window or a frame in which the content of the linked web page is displayed. The <iframe> element is commonly used to embed videos, maps, social media content, or external web pages directly into a web page.
+  4. Input Tag: The "input" tag is an HTML element used to create various types of form controls, allowing users to input data or make selections on a web page. It is a self-closing tag, meaning it doesn't have a separate closing tag.
+  5. Anchor Tag: This tag add the link to the text which re-directs us to the address of that Link.
+  6. Image Tag: Images are not technically inserted into a web page; images are linked to web pages.
+    - The  tag has two required attributes:
+      - src - Specifies the path to the image
+      - alt - Specifies an alternate text for the image, if the image for some reason cannot be displayed
+  7. Table Tag: HTML table tag is used to display data in tabular form (row * column). There can be many columns in a row.
 ---
 # CODE:
 
